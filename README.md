@@ -1,5 +1,5 @@
 <div>
-Welcome! I'm Rebecca Skeens | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
+Welcome! I'm Rebecca Skeens | <img align="center" height="18px" src="https://wakatime.com/badge/user/f796d124-2e84-4b8e-b284-7749a6a93c4f.svg"/>
 </div>
 <br/>
 
