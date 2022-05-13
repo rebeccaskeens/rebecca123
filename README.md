@@ -31,6 +31,6 @@ Welcome! I'm Rebecca Skeens | <img align="center" height="18px" src="https://wak
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
-- 📫 How to reach me: https://www.linkedin.com/in/vannarathong/
+- 📫 How to reach me: https://www.linkedin.com/in/rebecca-skeens/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning and working on projects
