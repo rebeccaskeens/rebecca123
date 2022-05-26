@@ -29,7 +29,7 @@ Welcome! I'm Rebecca Skeens | <img align="center" height="18px" src="https://wak
 - 🔭 I’m actively looking for new work
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with learning C#
+- 🤔 I’m looking for help with learning AWS
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/rebecca-skeens/
 - 😄 Pronouns: She/Her
